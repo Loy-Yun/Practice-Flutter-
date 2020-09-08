@@ -1,6 +1,6 @@
 # flutter_instagram
 
-A new Flutter application.
+A course from Inflearn.
 
 ## Getting Started
 
